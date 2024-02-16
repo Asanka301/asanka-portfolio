@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Asanka301",
   resume:
-    "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/Asanka%20Srinath%20Resume%202024%20(2).pdf?alt=media&token=9053e043-d83c-484f-a750-c0a0343f5e46",
+    "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/Asanka%20Srinath%20Resume%202024%20(1).pdf?alt=media&token=f1864c7a-a166-434c-a9e0-cca42818fbfa",
   linkedin: "https://linkedin.com/in/asanka-gamage",
   // twitter: "",
   // insta: "",
