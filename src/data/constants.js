@@ -429,7 +429,7 @@ export const projects = [
   {
     id: 18,
     title: "iPhone shop",
-    date: "Jan 2024 - Dec 2023",
+    // date: "Jan 2024 - Dec 2023",
     description:
       "A mobile app for a phone shop. Users can browse iPhones and add to cart",
     image: [
@@ -445,7 +445,7 @@ export const projects = [
   {
     id: 19,
     title: "Journey app",
-    date: "Jan 2024 - Dec 2023",
+    // date: "Jan 2024 - Dec 2023",
     description: "A memory note app. User can add notes according to the date",
     image: [
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/jrn%20(2).jpg?alt=media&token=1b0d1da9-92d9-4edb-b6ee-91b78e96adba",
@@ -461,7 +461,7 @@ export const projects = [
   {
     id: 20,
     title: "Hot & Chillie",
-    date: "Jun 2023 - Jul 2023",
+    // date: "Jun 2023 - Jul 2023",
     description:
       "A online ordering app for a Pizza shop. User can browse pizzas and add to cart. Fetched data using an api. React redux used",
     image: [
@@ -480,7 +480,7 @@ export const projects = [
   {
     id: 21,
     title: "Treasure",
-    date: "Jun 2023 - Jul 2023",
+    // date: "Jun 2023 - Jul 2023",
     description:
       "A jewellery shop application to check new jewelleries. Users can filter them by price, karatage.",
     image: [
@@ -498,28 +498,16 @@ export const projects = [
   {
     id: 22,
     title: "MyCinema",
-    date: "Jun 2023 - Jul 2023",
+    // date: "Jun 2023 - Jul 2023",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "A movie app contains all the details about movies. Users can add to watch list and add ratings. Used a movie api",
     image: [
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/cinema%20(1).png?alt=media&token=f1ffbd68-a099-45ca-823c-516249eadf87",
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/cinema%20(2).png?alt=media&token=72372966-18d8-49b1-88fc-775540066e05",
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/cinema%20(3).png?alt=media&token=72c54923-4a39-4db6-b2f6-06d084a61536",
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/cinema%20(4).png?alt=media&token=fb255c83-fc59-4f9f-8e45-86499edca349",
     ],
-    tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
-      "CI/CD",
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-    ],
+    tags: ["React Js"],
     category: "web app",
     // github: "https://github.com/rishavchanda/Trackify",
     // webapp: "https://trackify-management.netlify.app/",
@@ -527,28 +515,16 @@ export const projects = [
   {
     id: 23,
     title: "ReactSchool",
-    date: "Jun 2023 - Jul 2023",
+    // date: "Jun 2023 - Jul 2023",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "A application to learn React JS basics. Also containes react codes. Lightmode Darkmode are also enabled",
     image: [
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/scho%20(1).png?alt=media&token=71438950-ce91-4266-b8c8-b563eb2c0803",
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/scho%20(2).png?alt=media&token=22b68515-a6bf-44e0-a462-9b2899ae05c5",
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/scho%20(3).png?alt=media&token=fb716d58-9714-4a6e-9bf8-ee4e34398de1",
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/scho%20(4).png?alt=media&token=57d97485-323e-4132-b2bc-ec982a406a84",
     ],
-    tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
-      "CI/CD",
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-    ],
+    tags: ["React JS"],
     category: "web app",
     // github: "https://github.com/rishavchanda/Trackify",
     // webapp: "https://trackify-management.netlify.app/",
@@ -556,38 +532,26 @@ export const projects = [
   {
     id: 24,
     title: "Resto",
-    date: "Jun 2023 - Jul 2023",
+    // date: "Jun 2023 - Jul 2023",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "Online food ordering app for a restuarent. Users can search and filter food by price and category",
     image: [
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/resto%20(1).png?alt=media&token=8420b00c-4790-48d5-9721-558be0c4a512",
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/resto%20(2).png?alt=media&token=311ec460-f5ad-4c3b-850a-7f7e3309a34d",
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/resto%20(4).png?alt=media&token=ce32fdb6-dd0e-4cda-bd4a-0b836843c4a2",
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/resto%20(6).png?alt=media&token=7a90348f-02d9-4316-884a-a44d29d62ead",
     ],
-    tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
-      "CI/CD",
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-    ],
+    tags: ["React Js"],
     category: "web app",
     // github: "https://github.com/rishavchanda/Trackify",
-    // webapp: "https://trackify-management.netlify.app/",
+    webapp: "https://resto-coral.vercel.app/",
   },
   {
     id: 25,
     title: "Travel step",
-    date: "Jun 2023 - Jul 2023",
+    // date: "Jun 2023 - Jul 2023",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "A application for travellers. Users can identify the places using the map and add a note on it. Uses google map api",
     image: [
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/trvl%20(1).png?alt=media&token=8e18379f-5eea-48eb-a177-19196c31ada5",
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/trvl%20(2).png?alt=media&token=497b77f4-f28e-4416-bca0-dea7d5a321ae",
