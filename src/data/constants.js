@@ -408,7 +408,7 @@ export const projects = [
     tags: ["React", "Supabase", "Query", "MongoDb", "Redux"],
     category: "web app",
     // github: "https://github.com/rishavchanda/Trackify",
-    // webapp: "https://trackify-management.netlify.app/",
+    webapp: "https://wintersapp.netlify.app/",
   },
 
   {
@@ -474,7 +474,7 @@ export const projects = [
     tags: ["React Js", "Redux"],
     category: "web app",
     // github: "https://github.com/rishavchanda/Trackify",
-    // webapp: "https://trackify-management.netlify.app/",
+    webapp: "https://pizza-order-app-livid.vercel.app/",
   },
 
   {
@@ -493,7 +493,7 @@ export const projects = [
     tags: ["React router", "React Js"],
     category: "web app",
     // github: "https://github.com/rishavchanda/Trackify",
-    // webapp: "https://trackify-management.netlify.app/",
+    webapp: "https://jewellerapp.vercel.app/",
   },
   {
     id: 22,
@@ -527,7 +527,7 @@ export const projects = [
     tags: ["React JS"],
     category: "web app",
     // github: "https://github.com/rishavchanda/Trackify",
-    // webapp: "https://trackify-management.netlify.app/",
+    webapp: "https://reactschool.netlify.app/",
   },
   {
     id: 24,
@@ -573,7 +573,7 @@ export const projects = [
     ],
     category: "web app",
     //   github: "https://github.com/rishavchanda/Trackify",
-    //   webapp: "https://trackify-management.netlify.app/",
+    webapp: "https://travel-step-react-app.vercel.app/",
   },
   {
     id: 13,
