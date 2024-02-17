@@ -291,7 +291,7 @@ export const experiences = [
     role: "Android Developer",
     company: "App 360",
     date: "Aug 2023 - Oct 2023",
-    desc: "Built Flipr Connect Platforms using React Js integrated GraphQL with AXIOS, created High level Design and Figma design. Built Backend with GraphQL and Node JS and connected with MongoDb - Reducing API calls by 20%. Dockerized and automated with Kubernetes & Jenkins CI/CD deployed in AWS-EC2 added Prometheus & Grafana for monitoring.",
+    desc: "Built mobile applications using Flutter and Firebase.",
     skills: ["Flutter", "Firebase"],
     //doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1696514649120.jpeg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
   },
@@ -412,53 +412,6 @@ export const projects = [
   },
 
   {
-    id: 17,
-    title: "Foodie",
-    date: "Jan 2024 - Dec 2023",
-    description:
-      "mobile application using Convolutional Neural Networks (CNN), leveraging advanced Deep Learning techniques with TensorFlow and Mobile app using Flutter.",
-    image: [
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/smartmockups_lsjyp45f.jpg?alt=media&token=95416799-ea92-4d24-9166-3ef49666b23d",
-    ],
-    tags: ["Flutter", "Python", "OpenCV", "Tensorflow"],
-    category: "android app",
-    // github: "https://github.com/rishavchanda/DecisionHub",
-    // webapp: "https://decisionhub.netlify.app/",
-  },
-
-  {
-    id: 18,
-    title: "iPhone shop",
-    // date: "Jan 2024 - Dec 2023",
-    description:
-      "A mobile app for a phone shop. Users can browse iPhones and add to cart",
-    image: [
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/smartmockups_lsk0auh8.jpg?alt=media&token=595893fc-55e7-4c0a-8f2c-b9e3be5b5532",
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/smartmockups_lsk0c1np.jpg?alt=media&token=5ec13124-80aa-4bbe-b748-e8fb171dbd2a",
-    ],
-    tags: ["Flutter"],
-    category: "android app",
-    // github: "https://github.com/rishavchanda/DecisionHub",
-    // webapp: "https://decisionhub.netlify.app/",
-  },
-
-  {
-    id: 19,
-    title: "Journey app",
-    // date: "Jan 2024 - Dec 2023",
-    description: "A memory note app. User can add notes according to the date",
-    image: [
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/jrn%20(2).jpg?alt=media&token=1b0d1da9-92d9-4edb-b6ee-91b78e96adba",
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/jrn%20(1).jpg?alt=media&token=66633ca6-9fda-4c36-b106-3eac9bc761fb",
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/jrn%20(3).jpg?alt=media&token=3f2b406f-fd6f-4229-ab42-c12dd5465eef",
-    ],
-    tags: ["Flutter"],
-    category: "android app",
-    // github: "https://github.com/rishavchanda/DecisionHub",
-    // webapp: "https://decisionhub.netlify.app/",
-  },
-
-  {
     id: 20,
     title: "Hot & Chillie",
     // date: "Jun 2023 - Jul 2023",
@@ -547,6 +500,52 @@ export const projects = [
     webapp: "https://resto-coral.vercel.app/",
   },
   {
+    id: 17,
+    title: "Foodie",
+    date: "Jan 2024 - Dec 2023",
+    description:
+      "mobile application using Convolutional Neural Networks (CNN), leveraging advanced Deep Learning techniques with TensorFlow and Mobile app using Flutter.",
+    image: [
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/smartmockups_lsjyp45f.jpg?alt=media&token=95416799-ea92-4d24-9166-3ef49666b23d",
+    ],
+    tags: ["Flutter", "Python", "OpenCV", "Tensorflow"],
+    category: "android app",
+    // github: "https://github.com/rishavchanda/DecisionHub",
+    // webapp: "https://decisionhub.netlify.app/",
+  },
+
+  {
+    id: 18,
+    title: "iPhone shop",
+    // date: "Jan 2024 - Dec 2023",
+    description:
+      "A mobile app for a phone shop. Users can browse iPhones and add to cart",
+    image: [
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/smartmockups_lsk0auh8.jpg?alt=media&token=595893fc-55e7-4c0a-8f2c-b9e3be5b5532",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/smartmockups_lsk0c1np.jpg?alt=media&token=5ec13124-80aa-4bbe-b748-e8fb171dbd2a",
+    ],
+    tags: ["Flutter"],
+    category: "android app",
+    // github: "https://github.com/rishavchanda/DecisionHub",
+    // webapp: "https://decisionhub.netlify.app/",
+  },
+
+  {
+    id: 19,
+    title: "Journey app",
+    // date: "Jan 2024 - Dec 2023",
+    description: "A memory note app. User can add notes according to the date",
+    image: [
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/jrn%20(2).jpg?alt=media&token=1b0d1da9-92d9-4edb-b6ee-91b78e96adba",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/jrn%20(1).jpg?alt=media&token=66633ca6-9fda-4c36-b106-3eac9bc761fb",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/jrn%20(3).jpg?alt=media&token=3f2b406f-fd6f-4229-ab42-c12dd5465eef",
+    ],
+    tags: ["Flutter"],
+    category: "android app",
+    // github: "https://github.com/rishavchanda/DecisionHub",
+    // webapp: "https://decisionhub.netlify.app/",
+  },
+  {
     id: 25,
     title: "Travel step",
     // date: "Jun 2023 - Jul 2023",
@@ -558,19 +557,7 @@ export const projects = [
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/trvl%20(3).png?alt=media&token=779fb68b-dff4-4264-a4c8-c27a43bad4b1",
       "",
     ],
-    tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
-      "CI/CD",
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-    ],
+    tags: ["React Js", "Router"],
     category: "web app",
     //   github: "https://github.com/rishavchanda/Trackify",
     webapp: "https://travel-step-react-app.vercel.app/",
@@ -579,8 +566,7 @@ export const projects = [
     id: 13,
     title: "Ecom",
     date: "Jan 2024 - Dec 2023",
-    description:
-      "A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
+    description: "Ecommerce website developed using html/css and Javascript",
     image: [
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/ecommerce%20html%20css%20js%20(1).png?alt=media&token=44a4efa8-b1f7-45ae-8980-0d46e87347b7",
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/ecommerce%20html%20css%20js%20(2).png?alt=media&token=bf065491-1c50-4c40-a42a-d767782c7e35",
@@ -589,24 +575,17 @@ export const projects = [
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/ecommerce%20html%20css%20js%20(5).png?alt=media&token=64939d51-c540-43b5-a4f2-90132e834110",
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/ecommerce%20html%20css%20js%20(6).png?alt=media&token=6a690d22-8acc-46f0-a426-3fd68a80d2d5",
     ],
-    tags: [
-      "React Js",
-      "PostgressSQL",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "React Flow",
-    ],
+    tags: ["HTML", "CSS", "Javascript", "Bootstrap"],
     category: "web app",
-    // github: "https://github.com/rishavchanda/DecisionHub",
-    // webapp: "https://decisionhub.netlify.app/",
+    github: "https://github.com/Asanka301/E-commerce-Website-asanka301.git",
+    webapp: "https://asanka301.github.io/E-commerce-Website-asanka301/",
   },
   {
     id: 14,
     title: "Bojun",
     date: "Jan 2024 - Dec 2023",
     description:
-      "A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
+      "Online food ordering website developed using html/css and Javascript.",
     image: [
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/Bojun%20-%20food%20order%20htmlcss%20js%20(2).png?alt=media&token=b527af59-5036-49b3-a94e-d2cce38aeb85",
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/Bojun%20-%20food%20order%20htmlcss%20js%20(3).png?alt=media&token=1e6c56bf-fc4e-414a-9881-187ef24b8669",
@@ -617,14 +596,7 @@ export const projects = [
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/Bojun%20-%20food%20order%20htmlcss%20js%20(7).png?alt=media&token=2b70f7aa-5014-4073-9fa8-ec3d42562dec",
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/Bojun%20-%20food%20order%20htmlcss%20js%20(1).png?alt=media&token=09c9e46f-007e-4dbf-a587-3ae8bcf25641",
     ],
-    tags: [
-      "React Js",
-      "PostgressSQL",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "React Flow",
-    ],
+    tags: ["HTML", "CSS", "Javascript", "Bootstrap"],
     category: "web app",
     // github: "https://github.com/rishavchanda/DecisionHub",
     // webapp: "https://decisionhub.netlify.app/",
@@ -633,8 +605,7 @@ export const projects = [
     id: 15,
     title: "UOK",
     date: "Jan 2024 - Dec 2023",
-    description:
-      "A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
+    description: "Blog site using HTML CSS and Javascript",
     image: [
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/UOK%20html%20css%20js%20(1).png?alt=media&token=89555165-19b7-4c03-a161-e64cb7b4039f",
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/UOK%20html%20css%20js%20(2).png?alt=media&token=90d6adb7-fd5c-4470-8e22-235bd5721edf",
@@ -644,17 +615,10 @@ export const projects = [
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/UOK%20html%20css%20js%20(6).png?alt=media&token=3c813360-0855-496f-9840-93ab65d1c3c4",
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/UOK%20html%20css%20js%20(7).png?alt=media&token=d86df590-ac04-4de2-a8ae-7f262647c9f6",
     ],
-    tags: [
-      "React Js",
-      "PostgressSQL",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "React Flow",
-    ],
+    tags: ["HTML", "CSS", "Javascript", "Bootstrap"],
     category: "web app",
-    // github: "https://github.com/rishavchanda/DecisionHub",
-    // webapp: "https://decisionhub.netlify.app/",
+    github: "https://github.com/Asanka301/UOK-website.git",
+    webapp: "https://asanka301.github.io/UOK-website/",
   },
   {
     id: 17,
@@ -667,7 +631,7 @@ export const projects = [
     ],
     tags: ["Flutter", "Python", "OpenCV", "Tensorflow"],
     category: "machine learning",
-    // github: "https://github.com/rishavchanda/DecisionHub",
+    github: "https://github.com/Asanka301/Food_detector_app.git",
     // webapp: "https://decisionhub.netlify.app/",
   },
   {
@@ -681,17 +645,10 @@ export const projects = [
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/VideoShow%20-%20youtube%20clone%20html%20css%20js%20(2).png?alt=media&token=58521191-ed13-4f6f-9e44-55259558fc6f",
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/VideoShow%20-%20youtube%20clone%20html%20css%20js%20(3).png?alt=media&token=9ca3d0e7-268d-4f6c-bba3-c0a2b5d62c72",
     ],
-    tags: [
-      "React Js",
-      "PostgressSQL",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "React Flow",
-    ],
+    tags: ["HTML", "CSS", "Javascript", "Bootstrap"],
     category: "web app",
-    // github: "https://github.com/rishavchanda/DecisionHub",
-    // webapp: "https://decisionhub.netlify.app/",
+    github: "https://github.com/Asanka301/Youtube-Clone-site.git",
+    webapp: "https://asanka301.github.io/Youtube-Clone-site/",
   },
 ];
 
