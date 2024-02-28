@@ -412,6 +412,24 @@ export const projects = [
   },
 
   {
+    id: 5,
+    title: "GithubPro",
+    date: "Jun 2023 - Jul 2023",
+    description:
+      "GithubPro is an enhanced app similar to Github, which can search any user or repo. User can search any user and like their profiles and check their all the repos categorized by the programming language. Also user can browse popular repos in particular programming languages",
+    image: [
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/a1.png?alt=media&token=b3f59d83-4695-4067-9d08-685b80aafeef",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/a2.png?alt=media&token=8c337635-b3b4-4aff-8c26-6fadd3283b3a",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/a3.png?alt=media&token=905e2306-25f4-42d9-be8f-d289ed4fd0cb",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/a4.png?alt=media&token=9c5467b0-e3c9-406e-a7e8-021c3cccdfc3",
+    ],
+    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Render"],
+    category: "web app",
+    github: "https://github.com/Asanka301/Github-mern-2024.git",
+    webapp: "https://github-mern-2024.onrender.com",
+  },
+
+  {
     id: 20,
     title: "Hot & Chillie",
     // date: "Jun 2023 - Jul 2023",
