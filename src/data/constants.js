@@ -296,14 +296,14 @@ export const experiences = [
     //doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1696514649120.jpeg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
   },
 
-  {
-    id: 5,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
-    role: "Open Source Contributor ",
-    company: "GirlScript Summer of Code",
-    date: "May 2023 - Present",
-    desc: "Contributed to different open-source projects and learn from industry experts",
-  },
+  // {
+  //   id: 5,
+  //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
+  //   role: "Open Source Contributor ",
+  //   company: "GirlScript Summer of Code",
+  //   //date: "May 2023 - Present",
+  //   desc: "Contributed to different open-source projects and learn from industry experts",
+  // },
 ];
 
 export const education = [
@@ -320,6 +320,36 @@ export const education = [
 
 export const projects = [
   {
+    id: 30,
+    title: "ReadSpot",
+    // date: "Jun 2023 - Jul 2023",
+    description:
+      "A MERN book inventory app where users can browse books collections, add book to sale, manage books, see statistics. Users can authenticate using email, password and Google account. ",
+    image: [
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/1%20abc%20mern%20book%20(1).png?alt=media&token=9b3c00be-ea1e-488b-8f05-10299a392cc4",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/1%20abc%20mern%20book%20(2).png?alt=media&token=da459036-5731-45c8-a17e-352491a29073",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/1%20abc%20mern%20book%20(3).png?alt=media&token=e69603fb-f675-4f32-911b-95d5d99c02b1",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/1%20abc%20mern%20book%20(4).png?alt=media&token=1e805d01-4f22-41ce-854e-ee7e4348073d",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/1%20abc%20mern%20book%20(5).png?alt=media&token=c2513d80-d809-4aa0-957e-b09a76a99dd6",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/1%20abc%20mern%20book%20(6).png?alt=media&token=cda3fc5a-c3f3-4749-a86f-d92c28ee5bfb",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/1%20abc%20mern%20book%20(7).png?alt=media&token=ec25a2f9-0337-48ef-beea-946edeba2d69",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/1%20abc%20mern%20book%20(8).png?alt=media&token=81301a87-959a-4737-93aa-227bad538603",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/1%20abc%20mern%20book%20(9).png?alt=media&token=3924f687-e710-4b5b-a2fb-312be2b2e0c2",
+    ],
+    tags: [
+      "React",
+      "Node JS",
+      "Express JS",
+      "MongoDb",
+      "Firebase",
+      "Render",
+      "Vercel",
+    ],
+    category: "web app",
+    github: "https://github.com/Asanka301/mern-book-inventory.git",
+    webapp: "https://mern-book-inventory-client-woad.vercel.app",
+  },
+  {
     id: 26,
     title: "Winters",
     // date: "Jun 2023 - Jul 2023",
@@ -335,7 +365,7 @@ export const projects = [
     ],
     tags: ["React", "Supabase", "Query", "MongoDb", "Redux"],
     category: "web app",
-    // github: "",
+    github: "https://github.com/Asanka301/hotel-dashboard.git",
     webapp: "https://wintersapp.netlify.app/",
   },
 
