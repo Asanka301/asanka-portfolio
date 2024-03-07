@@ -438,7 +438,7 @@ export const projects = [
     ],
     tags: ["React Js"],
     category: "web app",
-    github: "https://github.com/Asanka301/myCinema.git",
+    github: "https://github.com/Asanka301/mycinema-react.git",
     // webapp: "https://trackify-management.netlify.app/",
   },
   {
