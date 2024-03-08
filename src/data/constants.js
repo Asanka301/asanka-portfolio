@@ -366,7 +366,7 @@ export const projects = [
     tags: ["React", "Supabase", "Query", "MongoDb", "Redux"],
     category: "web app",
     github: "https://github.com/Asanka301/hotel-dashboard.git",
-    webapp: "https://wintersapp.netlify.app/",
+    webapp: "https://winters-app.netlify.app",
   },
 
   {
