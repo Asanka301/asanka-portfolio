@@ -354,7 +354,7 @@ export const projects = [
     title: "Winters",
     // date: "Jun 2023 - Jul 2023",
     description:
-      "The application allows users to seamlessly manage rooms, edit bookings, and access insightful sales statistics",
+      "This application allows users to seamlessly manage rooms, edit bookings, and access insightful sales statistics",
     image: [
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/wildoasis%20(1).png?alt=media&token=82c93e2f-c308-46f8-89bb-31389588fa55",
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/wildoasis%20(3).png?alt=media&token=d48c97b5-14a6-4145-9e3e-c16fd228dfb4",
