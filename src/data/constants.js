@@ -320,6 +320,43 @@ export const education = [
 
 export const projects = [
   {
+    id: 33,
+    title: "Bistro",
+    // date: "Jun 2023 - Jul 2023",
+    description:
+      "A MERN food ordering app where users can browse order food online, select on categories, add to cart, pay with debit/credit card. Also admin can add items, manage items, see statistics, update items. Users can authenticate using email, password and Google account. ",
+    image: [
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000bistro%20(1).png?alt=media&token=00a78fac-62b8-443f-ae7e-548d346da516",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000bistro%20(2).png?alt=media&token=2db4b98b-2396-43a1-bb44-611cdd3a7134",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000bistro%20(3).png?alt=media&token=b3c952a8-ade5-4cda-ba0d-54a12c6b3289",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000bistro%20(4).png?alt=media&token=ec6b47c5-b763-4a28-a905-b33c70c77925",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000bistro%20(5).png?alt=media&token=7478f965-b8e9-4611-b6c9-ad8701c48fa3",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000bistro%20(6).png?alt=media&token=1eed2e10-e568-45ae-8ee1-2912fc3ccea9",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000bistro%20(7).png?alt=media&token=6f781a11-66ba-4ab9-86f0-dbdf8202aaef",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000bistro%20(8).png?alt=media&token=f6325cc2-2e07-4e0e-a2b6-b78aba59c02c",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000bistro%20(9).png?alt=media&token=26e5b1e3-302b-4378-ac4d-77287e6f2d16",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000bistro%20(10).png?alt=media&token=c5fa9628-ba24-4e01-a98f-1a554652b750",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000bistro%20(11).png?alt=media&token=345e7fa3-aa29-4ea4-99ea-370e5a7b83c7",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000bistro%20(12).png?alt=media&token=0cc83689-1386-412a-9621-3b49a6c45637",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000bistro%20(13).png?alt=media&token=72dd3220-d24f-4cb2-9e19-42d95546c57c",
+    ],
+    tags: [
+      "React",
+      "Node JS",
+      "Express JS",
+      "MongoDb",
+      "Firebase",
+      "Stripe",
+      "Tailwind css",
+      "Render",
+      "Vercel",
+    ],
+    category: "web app",
+    github: "https://github.com/Asanka301/mern-foodapp-client.git",
+    webapp: "https://mern-foodapp-client.vercel.app",
+  },
+
+  {
     id: 30,
     title: "ReadSpot",
     // date: "Jun 2023 - Jul 2023",
@@ -342,6 +379,7 @@ export const projects = [
       "Express JS",
       "MongoDb",
       "Firebase",
+      "Tailwind css",
       "Render",
       "Vercel",
     ],
@@ -367,6 +405,28 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Asanka301/hotel-dashboard.git",
     webapp: "https://winters-app.netlify.app",
+  },
+  {
+    id: 32,
+    title: "ConnectDev",
+    // date: "Jun 2023 - Jul 2023",
+    description:
+      "A MERN social network app for developers where developers can create their accounts, add experince/ education/skills etc. Also developers can add post and comment on them, like/dislike them ",
+    image: [
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(1).png?alt=media&token=74e1deb3-e3e3-47c9-b41f-dc3acef4de77",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(2).png?alt=media&token=90fcfd4e-2cbe-46f2-b9a6-d10c80dcdc16",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(3).png?alt=media&token=3659c886-3a44-4f6f-b74b-313c81b04533",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(4).png?alt=media&token=6910febe-49b6-431c-ba7b-d8db49ef7f73",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(5).png?alt=media&token=dd505b4f-9030-4011-88de-f90cf18be7c5",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(6).png?alt=media&token=c866c8c3-1e6b-4773-9681-d2eedf92590e",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(7).png?alt=media&token=5946440f-ae09-456f-a4b0-5b1bfc2ff4ea",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(8).png?alt=media&token=0007b0c0-8d20-4df0-8964-e1060c0fea0d",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(9).png?alt=media&token=e29d4ffe-a568-4c45-8a9d-76a0bdbffe23",
+    ],
+    tags: ["React", "Node JS", "Express JS", "MongoDb", "Render", "Vercel"],
+    category: "web app",
+    github: "https://github.com/Asanka301/mern-dev-client.git",
+    webapp: "",
   },
 
   {
