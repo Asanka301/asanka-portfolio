@@ -425,8 +425,8 @@ export const projects = [
     ],
     tags: ["React", "Node JS", "Express JS", "MongoDb", "Render", "Vercel"],
     category: "web app",
-    github: "https://github.com/Asanka301/mern-dev-client.git",
-    webapp: "",
+    github: "https://github.com/Asanka301/mern-devc.git",
+    webapp: "https://mern-devc.netlify.app",
   },
 
   {
