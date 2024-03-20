@@ -42,7 +42,7 @@ const Title = styled.div`
   text-align: center;
   font-weight: 600;
   margin-top: 20px;
-  color: ${({ theme }) => theme.text_primary};
+  color: #43a9f5;
   @media (max-width: 768px) {
     margin-top: 12px;
     font-size: 32px;
@@ -53,7 +53,7 @@ const Desc = styled.div`
   font-size: 18px;
   text-align: center;
   max-width: 600px;
-  color: ${({ theme }) => theme.text_secondary};
+  color: #43a9f5;
   @media (max-width: 768px) {
     margin-top: 12px;
     font-size: 16px;
@@ -87,7 +87,7 @@ const Experience = () => {
                 <TimelineSeparator>
                   <TimelineDot variant="outlined" color="secondary" />
                   {index !== experiences.length - 1 && (
-                    <TimelineConnector style={{ background: "#854CE6" }} />
+                    <TimelineConnector style={{ background: "#43a9f5" }} />
                   )}
                 </TimelineSeparator>
                 <TimelineContent sx={{ py: "12px", px: 2 }}>

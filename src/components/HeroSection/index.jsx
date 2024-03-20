@@ -162,29 +162,14 @@ export const ResumeButton = styled.a`
   max-width: 300px;
   text-align: center;
   padding: 16px 0;
-  color: ${({ theme }) => theme.white};
+  color: white;
   border-radius: 20px;
   cursor: pointer;
   font-size: 20px;
   font-weight: 600;
   transition: all 0.2s ease-in-out !important;
-  background: hsla(271, 100%, 50%, 1);
-  background: linear-gradient(
-    225deg,
-    hsla(271, 100%, 50%, 1) 0%,
-    hsla(294, 100%, 50%, 1) 100%
-  );
-  background: -moz-linear-gradient(
-    225deg,
-    hsla(271, 100%, 50%, 1) 0%,
-    hsla(294, 100%, 50%, 1) 100%
-  );
-  background: -webkit-linear-gradient(
-    225deg,
-    hsla(271, 100%, 50%, 1) 0%,
-    hsla(294, 100%, 50%, 1) 100%
-  );
-  //box-shadow: 20px 20px 60px #1f2634, -20px -20px 60px #1f2634;
+  background-color: #43a9f5; /* Set background color to #43a9f5 */
+  /* If you want to retain gradient, you can add gradient properties here */
   &:hover {
     transform: scale(1.05);
     transition: all 0.4s ease-in-out;
