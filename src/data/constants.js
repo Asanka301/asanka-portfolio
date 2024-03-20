@@ -355,7 +355,28 @@ export const projects = [
     github: "https://github.com/Asanka301/mern-foodapp-client.git",
     webapp: "https://mern-foodapp-client.vercel.app",
   },
-
+  {
+    id: 32,
+    title: "ConnectDev",
+    // date: "Jun 2023 - Jul 2023",
+    description:
+      "A MERN social network app for developers where developers can create their accounts, add experince/ education/skills etc. Also developers can add post and comment on them, like/dislike them ",
+    image: [
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(1).png?alt=media&token=74e1deb3-e3e3-47c9-b41f-dc3acef4de77",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(2).png?alt=media&token=90fcfd4e-2cbe-46f2-b9a6-d10c80dcdc16",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(3).png?alt=media&token=3659c886-3a44-4f6f-b74b-313c81b04533",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(4).png?alt=media&token=6910febe-49b6-431c-ba7b-d8db49ef7f73",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(5).png?alt=media&token=dd505b4f-9030-4011-88de-f90cf18be7c5",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(6).png?alt=media&token=c866c8c3-1e6b-4773-9681-d2eedf92590e",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(7).png?alt=media&token=5946440f-ae09-456f-a4b0-5b1bfc2ff4ea",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(8).png?alt=media&token=0007b0c0-8d20-4df0-8964-e1060c0fea0d",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(9).png?alt=media&token=e29d4ffe-a568-4c45-8a9d-76a0bdbffe23",
+    ],
+    tags: ["React", "Node JS", "Express JS", "MongoDb", "Render", "Vercel"],
+    category: "web app",
+    github: "https://github.com/Asanka301/mern-devc.git",
+    webapp: "https://mern-devc.netlify.app",
+  },
   {
     id: 30,
     title: "ReadSpot",
@@ -405,28 +426,6 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Asanka301/hotel-dashboard.git",
     webapp: "https://winters-app.netlify.app",
-  },
-  {
-    id: 32,
-    title: "ConnectDev",
-    // date: "Jun 2023 - Jul 2023",
-    description:
-      "A MERN social network app for developers where developers can create their accounts, add experince/ education/skills etc. Also developers can add post and comment on them, like/dislike them ",
-    image: [
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(1).png?alt=media&token=74e1deb3-e3e3-47c9-b41f-dc3acef4de77",
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(2).png?alt=media&token=90fcfd4e-2cbe-46f2-b9a6-d10c80dcdc16",
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(3).png?alt=media&token=3659c886-3a44-4f6f-b74b-313c81b04533",
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(4).png?alt=media&token=6910febe-49b6-431c-ba7b-d8db49ef7f73",
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(5).png?alt=media&token=dd505b4f-9030-4011-88de-f90cf18be7c5",
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(6).png?alt=media&token=c866c8c3-1e6b-4773-9681-d2eedf92590e",
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(7).png?alt=media&token=5946440f-ae09-456f-a4b0-5b1bfc2ff4ea",
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(8).png?alt=media&token=0007b0c0-8d20-4df0-8964-e1060c0fea0d",
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000devconn%20(9).png?alt=media&token=e29d4ffe-a568-4c45-8a9d-76a0bdbffe23",
-    ],
-    tags: ["React", "Node JS", "Express JS", "MongoDb", "Render", "Vercel"],
-    category: "web app",
-    github: "https://github.com/Asanka301/mern-devc.git",
-    webapp: "https://mern-devc.netlify.app",
   },
 
   {
