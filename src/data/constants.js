@@ -280,7 +280,7 @@ export const experiences = [
     img: "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/channels4_profile.jpg?alt=media&token=24549b71-a71f-42d2-ad0c-feca73594a90",
     role: "Software Engineer Intern",
     company: "SLT Mobitel",
-    date: "June 2023 - Nov 2023",
+    date: "Sep 2022 - Mar 2023",
     desc: "Enhanced user experiences on Neurobit PSG & Hybrid, Portals by resolving bugs & reduced load time by 40%. Built Neurobit Analytics portal using React Js with seamless interaction of REST APIs using AXIOS optimized with React Query. Refactored previous code to TypeScript, updated with new dependency and integrated Vite with Jest for Unit Testing.",
     skills: ["ReactJS", "MongoDB", "NodeJs", "AWS"],
     //doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
@@ -462,7 +462,26 @@ export const projects = [
     tags: ["React Js", "Redux"],
     category: "web app",
     github: "https://github.com/Asanka301/pizza-order-app.git",
-    webapp: "https://pizza-order-app-livid.vercel.app/",
+    webapp: "https://pizza-order-app-livid.vercel.app",
+  },
+  {
+    id: 4,
+    title: "Kottu Bar",
+    // date: "Jun 2023 - Jul 2023",
+    description:
+      "A online ordering app for a Kottu restuarent. User can browse Kottu. React and bootstrap used",
+    image: [
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/0000kttu%20(1).png?alt=media&token=293d100e-c0f9-472b-8998-9067feb352bf",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/0000kttu%20(2).png?alt=media&token=02cee3aa-7b04-4403-adf4-37bd7c55ab84",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/0000kttu%20(3).png?alt=media&token=73a86e42-5f87-4621-8e42-27230ecd2a11",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/0000kttu%20(4).png?alt=media&token=fcfea477-ab77-47e7-98f3-dc23fb0c8903",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/0000kttu%20(5).png?alt=media&token=a1c95e29-1a66-43a2-96f6-9fb3ca3affda",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/0000kttu%20(6).png?alt=media&token=e37b8983-3ce9-4c61-8bee-f38630e4a84c",
+    ],
+    tags: ["React Js", "Bootstrap"],
+    category: "web app",
+    github: "https://github.com/Asanka301/react-restuarant-app.git",
+    webapp: "https://spicy-kottu.netlify.app",
   },
 
   {
