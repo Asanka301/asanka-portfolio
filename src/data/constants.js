@@ -483,6 +483,41 @@ export const projects = [
     github: "https://github.com/Asanka301/react-restuarant-app.git",
     webapp: "https://spicy-kottu.netlify.app",
   },
+  {
+    id: 23,
+    title: "ReactSchool",
+    // date: "Jun 2023 - Jul 2023",
+    description:
+      "A application to learn React JS basics. Also containes react codes. Lightmode Darkmode are also enabled",
+    image: [
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/scho%20(1).png?alt=media&token=71438950-ce91-4266-b8c8-b563eb2c0803",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/scho%20(2).png?alt=media&token=22b68515-a6bf-44e0-a462-9b2899ae05c5",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/scho%20(3).png?alt=media&token=fb716d58-9714-4a6e-9bf8-ee4e34398de1",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/scho%20(4).png?alt=media&token=57d97485-323e-4132-b2bc-ec982a406a84",
+    ],
+    tags: ["React JS"],
+    category: "web app",
+    github: "https://github.com/Asanka301/React-school----learn-react-app.git",
+    webapp: "https://reactschool.netlify.app/",
+  },
+  {
+    id: 23,
+    title: "Wevra",
+    // date: "Jun 2023 - Jul 2023",
+    description:
+      "A application for a bussiness/Digital marketing company. Built with React JS and Bootstrap",
+    image: [
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000000bus%20(1).png?alt=media&token=42ea085f-6a3a-47ff-b9ec-4b25606d90de",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000000bus%20(2).png?alt=media&token=b62c24c0-4176-453b-9b95-dd9774195555",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000000bus%20(3).png?alt=media&token=6fe84577-592d-4249-999f-663bcc34e1d7",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000000bus%20(4).png?alt=media&token=dcb9a4ce-6ffd-4b11-ac7b-e15af0227228",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000000bus%20(5).png?alt=media&token=5eee8c94-5d27-47e0-953a-6ae3191e17b6",
+    ],
+    tags: ["React JS", "bootstrap"],
+    category: "web app",
+    github: "https://github.com/Asanka301/react-business-strategy-app.git",
+    webapp: "https://wevra-businessapp.netlify.app",
+  },
 
   {
     id: 21,
@@ -502,40 +537,7 @@ export const projects = [
     github: "https://github.com/Asanka301/jewellerapp.git",
     webapp: "https://jewellerapp.vercel.app/",
   },
-  {
-    id: 22,
-    title: "MyCinema",
-    // date: "Jun 2023 - Jul 2023",
-    description:
-      "A movie app contains all the details about movies. Users can add to watch list and add ratings. Used a movie api",
-    image: [
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/cinema%20(1).png?alt=media&token=f1ffbd68-a099-45ca-823c-516249eadf87",
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/cinema%20(2).png?alt=media&token=72372966-18d8-49b1-88fc-775540066e05",
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/cinema%20(3).png?alt=media&token=72c54923-4a39-4db6-b2f6-06d084a61536",
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/cinema%20(4).png?alt=media&token=fb255c83-fc59-4f9f-8e45-86499edca349",
-    ],
-    tags: ["React Js"],
-    category: "web app",
-    github: "https://github.com/Asanka301/mycinema-react.git",
-    // webapp: "https://trackify-management.netlify.app/",
-  },
-  {
-    id: 23,
-    title: "ReactSchool",
-    // date: "Jun 2023 - Jul 2023",
-    description:
-      "A application to learn React JS basics. Also containes react codes. Lightmode Darkmode are also enabled",
-    image: [
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/scho%20(1).png?alt=media&token=71438950-ce91-4266-b8c8-b563eb2c0803",
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/scho%20(2).png?alt=media&token=22b68515-a6bf-44e0-a462-9b2899ae05c5",
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/scho%20(3).png?alt=media&token=fb716d58-9714-4a6e-9bf8-ee4e34398de1",
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/scho%20(4).png?alt=media&token=57d97485-323e-4132-b2bc-ec982a406a84",
-    ],
-    tags: ["React JS"],
-    category: "web app",
-    github: "https://github.com/Asanka301/React-school----learn-react-app.git",
-    webapp: "https://reactschool.netlify.app/",
-  },
+
   {
     id: 24,
     title: "Resto",
@@ -552,6 +554,23 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Asanka301/food-order-react.git",
     webapp: "https://resto-coral.vercel.app/",
+  },
+  {
+    id: 22,
+    title: "MyCinema",
+    // date: "Jun 2023 - Jul 2023",
+    description:
+      "A movie app contains all the details about movies. Users can add to watch list and add ratings. Used a movie api",
+    image: [
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/cinema%20(1).png?alt=media&token=f1ffbd68-a099-45ca-823c-516249eadf87",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/cinema%20(2).png?alt=media&token=72372966-18d8-49b1-88fc-775540066e05",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/cinema%20(3).png?alt=media&token=72c54923-4a39-4db6-b2f6-06d084a61536",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/cinema%20(4).png?alt=media&token=fb255c83-fc59-4f9f-8e45-86499edca349",
+    ],
+    tags: ["React Js"],
+    category: "web app",
+    github: "https://github.com/Asanka301/mycinema-react.git",
+    // webapp: "https://trackify-management.netlify.app/",
   },
   {
     id: 17,
