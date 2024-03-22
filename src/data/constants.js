@@ -220,11 +220,11 @@ export const skills = [
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png",
       },
-      {
-        name: "Google Colab",
-        image:
-          "https://assets.stickpng.com/images/63c2e4c9c4baad4ce22bf9ef.png",
-      },
+      // {
+      //   name: "Google Colab",
+      //   image:
+      //     "https://assets.stickpng.com/images/63c2e4c9c4baad4ce22bf9ef.png",
+      // },
       {
         name: "Sk Learn Kit",
         image:
@@ -245,25 +245,25 @@ export const skills = [
         image:
           "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
       },
+      // {
+      //   name: "Netlify",
+      //   image:
+      //     "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+      // },
+      // {
+      //   name: "VS Code",
+      //   image:
+      //     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
+      // },
+      // {
+      //   name: "Postman",
+      //   image:
+      //     "https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png",
+      // },
       {
-        name: "Netlify",
+        name: "Wordpress",
         image:
-          "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
-      },
-      {
-        name: "VS Code",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
-      },
-      {
-        name: "Postman",
-        image:
-          "https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png",
-      },
-      {
-        name: "Adobe XD",
-        image:
-          "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
+          "https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png",
       },
       {
         name: "Figma",
