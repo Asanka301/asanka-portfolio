@@ -309,7 +309,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+    img: "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/00000uok.png?alt=media&token=b6a50382-8eaa-45ea-a248-937fb2a94fa8",
     school: "University of Kelaniya - Emphasize in Data Science",
     date: "Feb 2019 - Nov 2023",
     grade: "3.0 GPA",

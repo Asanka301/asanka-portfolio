@@ -63,7 +63,7 @@ const Card = styled.div`
     overflow: visible;
     -webkit-line-clamp: unset;
   }
-  border: 0.1px solid #854ce6;
+  border: 0.1px solid #306ee8;
 `;
 
 const Top = styled.div`
@@ -115,14 +115,14 @@ const Date = styled.div`
   }
 `;
 
-const Grade = styled.div`
-  font-size: 14px;
-  font-weight: 500;
-  color: ${({ theme }) => theme.text_secondary + 99};
-  @media only screen and (max-width: 768px) {
-    font-size: 12px;
-  }
-`;
+// const Grade = styled.div`
+//   font-size: 14px;
+//   font-weight: 500;
+//   color: ${({ theme }) => theme.text_secondary + 99};
+//   @media only screen and (max-width: 768px) {
+//     font-size: 12px;
+//   }
+// `;
 
 const EducationCard = ({ education }) => {
   return (
