@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/asanka-portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/asanka-portfolio/static/js/main.7707e8c5.js",
+    "static/media/2.png": "/asanka-portfolio/static/media/2.a258a07cadaf743a79c9.png",
+    "index.html": "/asanka-portfolio/index.html",
+    "main.bf538fe7.css.map": "/asanka-portfolio/static/css/main.bf538fe7.css.map",
+    "main.7707e8c5.js.map": "/asanka-portfolio/static/js/main.7707e8c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.7707e8c5.js"
+  ]
+}
