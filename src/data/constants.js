@@ -324,7 +324,7 @@ export const projects = [
     title: "Bistro",
     // date: "Jun 2023 - Jul 2023",
     description:
-      "A MERN food ordering app where users can browse order food online, select on categories, add to cart, pay with debit/credit card. Also admin can add items, manage items, see statistics, update items. Users can authenticate using email, password and Google account. ",
+      "A MERN app where users can browse order food online, select on categories, add to cart, pay with debit/credit card. Also admin can add items, manage items, see statistics, update items. Users can authenticate using email, password and Google account. ",
     image: [
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000bistro%20(1).png?alt=media&token=00a78fac-62b8-443f-ae7e-548d346da516",
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/000bistro%20(2).png?alt=media&token=2db4b98b-2396-43a1-bb44-611cdd3a7134",
