@@ -707,22 +707,22 @@ export const projects = [
     github: "https://github.com/Asanka301/Food_detector_app.git",
     // webapp: "https://decisionhub.netlify.app/",
   },
-  {
-    id: 16,
-    title: "VideoShow",
-    date: "Jan 2024 - Dec 2023",
-    description:
-      "A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
-    image: [
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/VideoShow%20-%20youtube%20clone%20html%20css%20js%20(1).png?alt=media&token=ee845eaa-9090-4bb8-aee9-3f4c79763a3f",
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/VideoShow%20-%20youtube%20clone%20html%20css%20js%20(2).png?alt=media&token=58521191-ed13-4f6f-9e44-55259558fc6f",
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/VideoShow%20-%20youtube%20clone%20html%20css%20js%20(3).png?alt=media&token=9ca3d0e7-268d-4f6c-bba3-c0a2b5d62c72",
-    ],
-    tags: ["HTML", "CSS", "Javascript", "Bootstrap"],
-    category: "web app",
-    github: "https://github.com/Asanka301/Youtube-Clone-site.git",
-    webapp: "https://asanka301.github.io/Youtube-Clone-site/",
-  },
+  // {
+  //   id: 16,
+  //   title: "VideoShow",
+  //   date: "Jan 2024 - Dec 2023",
+  //   description:
+  //     "A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
+  //   image: [
+  //     "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/VideoShow%20-%20youtube%20clone%20html%20css%20js%20(1).png?alt=media&token=ee845eaa-9090-4bb8-aee9-3f4c79763a3f",
+  //     "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/VideoShow%20-%20youtube%20clone%20html%20css%20js%20(2).png?alt=media&token=58521191-ed13-4f6f-9e44-55259558fc6f",
+  //     "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/VideoShow%20-%20youtube%20clone%20html%20css%20js%20(3).png?alt=media&token=9ca3d0e7-268d-4f6c-bba3-c0a2b5d62c72",
+  //   ],
+  //   tags: ["HTML", "CSS", "Javascript", "Bootstrap"],
+  //   category: "web app",
+  //   github: "https://github.com/Asanka301/Youtube-Clone-site.git",
+  //   webapp: "https://asanka301.github.io/Youtube-Clone-site/",
+  // },
 ];
 
 export const TimeLineData = [
