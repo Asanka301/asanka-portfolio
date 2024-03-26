@@ -430,10 +430,10 @@ export const projects = [
 
   {
     id: 5,
-    title: "GithubPro",
+    title: "RepoHub",
     //date: "Jun 2023 - Jul 2023",
     description:
-      "GithubPro is a MERN app similar to Github, which can search any user or repo. User can search any user and like their profiles and check their all the repos categorized by the programming language. Also user can browse popular repos in particular programming languages",
+      "RepoHub is a MERN app similar to Github, which can search any user or repo. User can search any user and like their profiles and check their all the repos categorized by the programming language. Also user can browse popular repos in particular programming languages",
     image: [
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/a1.png?alt=media&token=b3f59d83-4695-4067-9d08-685b80aafeef",
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/a2.png?alt=media&token=8c337635-b3b4-4aff-8c26-6fadd3283b3a",
