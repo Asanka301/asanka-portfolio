@@ -484,6 +484,23 @@ export const projects = [
     webapp: "https://spicy-kottu.netlify.app",
   },
   {
+    id: 25,
+    title: "Travel step",
+    // date: "Jun 2023 - Jul 2023",
+    description:
+      "A application for travellers. Users can identify the places using the map and add a note on it. Uses google map api",
+    image: [
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/trvl%20(1).png?alt=media&token=8e18379f-5eea-48eb-a177-19196c31ada5",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/trvl%20(2).png?alt=media&token=497b77f4-f28e-4416-bca0-dea7d5a321ae",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/trvl%20(3).png?alt=media&token=779fb68b-dff4-4264-a4c8-c27a43bad4b1",
+      "",
+    ],
+    tags: ["React Js", "Router"],
+    category: "web app",
+    github: "https://github.com/Asanka301/Travel-Step---React-app.git",
+    webapp: "https://travel-step-react-app.vercel.app/",
+  },
+  {
     id: 23,
     title: "ReactSchool",
     // date: "Jun 2023 - Jul 2023",
@@ -618,23 +635,7 @@ export const projects = [
     // github: "https://github.com/rishavchanda/DecisionHub",
     // webapp: "https://decisionhub.netlify.app/",
   },
-  {
-    id: 25,
-    title: "Travel step",
-    // date: "Jun 2023 - Jul 2023",
-    description:
-      "A application for travellers. Users can identify the places using the map and add a note on it. Uses google map api",
-    image: [
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/trvl%20(1).png?alt=media&token=8e18379f-5eea-48eb-a177-19196c31ada5",
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/trvl%20(2).png?alt=media&token=497b77f4-f28e-4416-bca0-dea7d5a321ae",
-      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/trvl%20(3).png?alt=media&token=779fb68b-dff4-4264-a4c8-c27a43bad4b1",
-      "",
-    ],
-    tags: ["React Js", "Router"],
-    category: "web app",
-    github: "https://github.com/Asanka301/Travel-Step---React-app.git",
-    webapp: "https://travel-step-react-app.vercel.app/",
-  },
+
   // {
   //   id: 13,
   //   title: "Ecom",
