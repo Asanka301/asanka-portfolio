@@ -445,6 +445,22 @@ export const projects = [
     github: "https://github.com/Asanka301/Github-mern-2024.git",
     webapp: "https://github-mern-2024.onrender.com",
   },
+  {
+    id: 38,
+    title: "StudySync",
+    // date: "Jun 2023 - Jul 2023",
+    description:
+      "AI powered app for students where users can paste any documnent and ask any question from the text. Ai model will give answers. Usefull for assignments and making short notes",
+    image: [
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/0000study%20(1).png?alt=media&token=322fb416-17ed-41d1-89b7-63ae6ce12969",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/0000study%20(2).png?alt=media&token=48e3cfb8-0d94-4f18-af87-7128abb81fd7",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/0000study%20(3).png?alt=media&token=fe47f8ea-a179-4f03-bacb-9e367dd39046",
+    ],
+    tags: ["React Js", "Tensorflow JS", "BERT Model"],
+    category: "web app",
+    github: "https://github.com/Asanka301/react-tensorflow-app.git",
+    webapp: "https://github.com/Asanka301/react-tensorflow-app.git",
+  },
 
   {
     id: 20,
