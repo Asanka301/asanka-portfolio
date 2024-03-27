@@ -610,14 +610,15 @@ export const projects = [
     title: "Foodie",
     date: "Jan 2024 - Dec 2023",
     description:
-      "mobile application using Convolutional Neural Networks (CNN), leveraging advanced Deep Learning techniques with TensorFlow and Mobile app using Flutter.",
+      "Mobile application using Convolutional Neural Networks (CNN), leveraging advanced Deep Learning techniques with TensorFlow and Mobile app using Flutter.",
     image: [
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/smartmockups_lsjyp45f.jpg?alt=media&token=95416799-ea92-4d24-9166-3ef49666b23d",
     ],
     tags: ["Flutter", "Python", "OpenCV", "Tensorflow"],
     category: "android app",
     github: "https://github.com/Asanka301/Food_detector_app.git",
-    // webapp: "https://decisionhub.netlify.app/",
+    webapp:
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/demo.mp4?alt=media&token=042f91e1-7a7f-44b4-8338-b2f491bd1744",
   },
 
   {
@@ -715,14 +716,15 @@ export const projects = [
     title: "Foodie",
     // date: "Jan 2024 - Dec 2023",
     description:
-      "mobile application using Convolutional Neural Networks (CNN), leveraging advanced Deep Learning techniques with TensorFlow and Mobile app using Flutter.",
+      "Mobile application using Convolutional Neural Networks (CNN), leveraging advanced Deep Learning techniques with TensorFlow and Mobile app using Flutter.",
     image: [
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/smartmockups_lsjyp45f.jpg?alt=media&token=95416799-ea92-4d24-9166-3ef49666b23d",
     ],
     tags: ["Flutter", "Python", "OpenCV", "Tensorflow"],
     category: "machine learning",
     github: "https://github.com/Asanka301/Food_detector_app.git",
-    // webapp: "https://decisionhub.netlify.app/",
+    webapp:
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/demo.mp4?alt=media&token=042f91e1-7a7f-44b4-8338-b2f491bd1744",
   },
   // {
   //   id: 16,
