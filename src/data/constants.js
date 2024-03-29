@@ -379,7 +379,7 @@ export const projects = [
   },
   {
     id: 36,
-    title: "DoctorLink",
+    title: "DocLink",
     // date: "Jun 2023 - Jul 2023",
     description:
       "A Machine learning web app for disease predictions. App gives predictions on Diabetes and Heart disease using the data given by user. Trained models using datasets from Kaggle ",
