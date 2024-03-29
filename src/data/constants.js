@@ -382,7 +382,7 @@ export const projects = [
     title: "DoctorLink",
     // date: "Jun 2023 - Jul 2023",
     description:
-      "A Machine learning web app for disease predictions. App gives predictions on Diabetes, Heart disease and Parkinsons using the data given by user. Trained models using datasets from Kaggle ",
+      "A Machine learning web app for disease predictions. App gives predictions on Diabetes and Heart disease using the data given by user. Trained models using datasets from Kaggle ",
     image: [
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/ml%20doctor%20(1).png?alt=media&token=868afa16-8648-408e-8ded-b2682415a942",
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/ml%20doctor%20(2).png?alt=media&token=36c71a6c-2c12-4252-89bc-7a157880345a",
@@ -395,9 +395,8 @@ export const projects = [
       "Streamlit cloud",
     ],
     category: "web app",
-    github: "https://github.com/Asanka301/nachinelearning-doclinkapp.git",
-    webapp:
-      "https://nachinelearning-doclinkapp-sfgjpzzeb5xb2xsurn9rhd.streamlit.app",
+    github: "https://github.com/Asanka301/ML-doclink.git",
+    webapp: "https://ml-doclink.streamlit.app/",
   },
   {
     id: 30,
