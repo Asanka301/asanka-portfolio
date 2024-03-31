@@ -76,10 +76,7 @@ const Cerificates = () => {
     <Container id="experience">
       <Wrapper>
         <Title>Certificates</Title>
-        <Desc>
-          My work experience as a software engineer and working on different
-          companies and projects.
-        </Desc>
+
         <TimelineSection>
           <Timeline>
             {cerificates.map((cerificates, index) => (
