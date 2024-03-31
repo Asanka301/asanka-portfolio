@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Asanka301",
   resume:
-    "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/Asanka%20Srinath%20Resume%202024%20(1).pdf?alt=media&token=f1864c7a-a166-434c-a9e0-cca42818fbfa",
+    "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/Asanka%20Srinath%20Resume%202024%20(2).pdf?alt=media&token=f9cba5b6-fdab-4c76-b14f-04b7582e54c4",
   linkedin: "https://linkedin.com/in/asanka-gamage",
   // twitter: "",
   // insta: "",
@@ -41,20 +41,20 @@ export const skills = [
       //   image:
       //     "https://camo.githubusercontent.com/8886130b3d8aba95dbdd7c4f9a41029606424cc06d1873c1ced87dd55a222fef/68747470733a2f2f616e67756c61722e696f2f6173736574732f696d616765732f6c6f676f732f616e67756c61722f616e67756c61722e737667",
       // },
-      // {
-      //   name: "HTML",
-      //   image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
-      // },
-      // {
-      //   name: "CSS",
-      //   image:
-      //     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
-      // },
-      // {
-      //   name: "JavaScript",
-      //   image:
-      //     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
-      // },
+      {
+        name: "HTML",
+        image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
+      },
+      {
+        name: "CSS",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+      },
+      {
+        name: "JavaScript",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+      },
       // {
       //   name: "Bootstrap",
       //   image:
@@ -304,6 +304,19 @@ export const experiences = [
   //   //date: "May 2023 - Present",
   //   desc: "Contributed to different open-source projects and learn from industry experts",
   // },
+];
+
+export const cerificates = [
+  {
+    id: 0,
+    img: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Hey_Machine_Learning_Logo.png",
+    role: "Artificial Intelligence (AI) and Machine Learning Masterclass",
+    company: " H. M. Samadhi Chathuranga",
+    date: "2023 Feb -2023 April",
+    //desc: "Machine learning",
+    //skills: ["ReactJS", "MongoDB", "NodeJs", "AWS"],
+    doc: "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/222-1.jpg?alt=media&token=aacf047c-2bdc-4a24-aba4-1b7a88e38dab",
+  },
 ];
 
 export const education = [

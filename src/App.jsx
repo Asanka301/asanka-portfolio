@@ -13,6 +13,7 @@ import { useState } from "react";
 import Contact from "./components/Contact/index.js";
 import Footer from "./components/Footer/index.js";
 import ProjectDetails from "./components/ProjectDetails/index.jsx";
+import Cerificates from "./components/Certificates/index.jsx";
 
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
@@ -63,6 +64,7 @@ function App() {
           <Projects openModal={openModal} setOpenModal={setOpenModal} />
           <Wrapper>
             <Education />
+            <Cerificates />
             <Contact />
           </Wrapper>
           <Footer />
