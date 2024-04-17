@@ -604,6 +604,20 @@ export const projects = [
     github: "https://github.com/Asanka301/jewellerapp.git",
     webapp: "https://jewellerapp.vercel.app/",
   },
+  {
+    id: 39,
+    title: "Finanze",
+    // date: "Jun 2023 - Jul 2023",
+    description: "Landing page for a finance app",
+    image: [
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/fi1.png?alt=media&token=786d2cf3-1102-41c8-99cf-9e94115ba656",
+      "https://firebasestorage.googleapis.com/v0/b/myportfolio-7d97d.appspot.com/o/fi2.png?alt=media&token=ddf574ac-598d-49a0-965c-4f5a5244bb94",
+    ],
+    tags: ["React Js", "Tailwind CSS"],
+    category: "web app",
+    github: "https://github.com/Asanka301/finance-reactapp.git",
+    webapp: "https://master--finance-react.netlify.app/",
+  },
 
   {
     id: 24,
