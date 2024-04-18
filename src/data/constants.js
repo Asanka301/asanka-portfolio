@@ -281,7 +281,7 @@ export const experiences = [
     role: "Software Engineer Intern",
     company: "SLT Mobitel",
     date: "Sep 2022 - Mar 2023",
-    desc: "Enhanced user experiences on Neurobit PSG & Hybrid, Portals by resolving bugs & reduced load time by 40%. Built Neurobit Analytics portal using React Js with seamless interaction of REST APIs using AXIOS optimized with React Query. Refactored previous code to TypeScript, updated with new dependency and integrated Vite with Jest for Unit Testing.",
+    desc: "In my recent roles, I've showcased versatility across diverse domains, contributing to both a Full Stack application and a Machine Learning project. In the Research Management Platform, I spearheaded the development of a comprehensive web solution using React JS for the frontend, coupled with Node JS and MongoDB on AWS for the backend infrastructure. Leveraging React Query facilitated seamless integration with REST APIs, enhancing user experience for researchers and presenters alike. Transitioning to the Convocational AI Engine, I specialized in Python, NLP techniques, and the RASA framework to enable smooth handoff from automated systems to live agents during customer interactions. Additionally, integration of OpenAI APIs enriched the support experience, underlining my commitment to innovation and effective problem-solving across technology stacks.",
     skills: ["ReactJS", "MongoDB", "NodeJs", "AWS"],
     //doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
   },
