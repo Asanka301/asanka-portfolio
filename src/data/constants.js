@@ -291,7 +291,7 @@ export const experiences = [
     role: "Android Developer",
     company: "App 360",
     date: "Aug 2023 - Oct 2023",
-    desc: "Built mobile applications using Flutter and Firebase.",
+    desc: "Built mobile applications using Flutter and Firebase..",
     skills: ["Flutter", "Firebase"],
     //doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1696514649120.jpeg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
   },
