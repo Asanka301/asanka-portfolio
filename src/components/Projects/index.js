@@ -21,7 +21,7 @@ const Projects = ({ openModal, setOpenModal }) => {
         <Title>Projects</Title>
         <Desc>
           I have worked on a wide range of projects. From web apps to android
-          apps. Here are some of my projects.
+          apps. Here are some of my projects
         </Desc>
         <ToggleButtonGroup>
           {toggle === "all" ? (
