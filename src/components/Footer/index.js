@@ -109,7 +109,7 @@ function Footer() {
           </SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; {currentYear} --- Asanka Gamage. All rights reserved.
+          &copy; {currentYear} - Asanka Gamage. All rights reserved.
         </Copyright>
       </FooterWrapper>
     </FooterContainer>
