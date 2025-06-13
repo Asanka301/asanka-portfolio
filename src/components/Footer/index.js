@@ -83,6 +83,8 @@ const Copyright = styled.p`
   text-align: center;
 `;
 
+const currentYear = new Date().getFullYear();
+
 function Footer() {
   return (
     <FooterContainer>
@@ -106,7 +108,9 @@ function Footer() {
             <LinkedInIcon />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2024 Asanka Gamage. All rights reserved.</Copyright>
+        <Copyright>
+          &copy; {currentYear} Asanka Gamage. All rights reserved.
+        </Copyright>
       </FooterWrapper>
     </FooterContainer>
   );
